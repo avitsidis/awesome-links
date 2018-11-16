@@ -13,3 +13,9 @@
 
 ## Javascript
 * [The complete Javascript handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
+
+## Misc
+
+### Music
+
+* [rainymood](https://rainymood.com/)
